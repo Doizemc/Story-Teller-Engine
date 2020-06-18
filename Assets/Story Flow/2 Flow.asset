@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: 2 Flow
   m_EditorClassIdentifier: 
   storyText: 2 flow
+  mihAngerLevel: 0
+  dronikAngerLevel: 25
   storySpeach: {fileID: 8300000, guid: 6d287fd2d1534744ea4a4c67a0cae775, type: 3}
   storySprite: {fileID: 0}
   storyFlows:
